@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="top_stories">Top Stories</string>
+    <string name="icon">icon</string>
+    <string name="news">News</string>
+    <string name="newsone">NewsOne</string>
+
+    <string name="related_stories">Related Stories</string>
+    <string name="title">Title</string>
+    <string name="lorem">Lorem</string>
+    <string name="lorem_ipsum_dolor">Lorem ipsum dolor</string>
+    <string name="molestiae_quas_vel_sint">molestiae quas vel sint</string>
+    <string name="sit_amet_consectetur_adipisicing_elit">sit amet consectetur adipisicing elit</string>
+    <string name="commodi_repudiandae_quas">commodi repudiandae quas</string>
+    <string name="maxime_mollitia_molestiae_quas">Maxime mollitia, molestiae quas</string>
+    <string name="provident_similique_accusantium_nemo_autem">Provident similique accusantium nemo autem</string>
+    <string name="iure_eius_earum_ut_molestias">Iure eius earum ut molestias</string>
+    <string name="quo_neque_repudiandae">Quo neque repudiandae</string>
+    <string name="ipsa_laudantium">Ipsa laudantium</string>
+</resources>
